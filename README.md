@@ -1,3 +1,15 @@
+
+npm install jspdf -save
+
+npm install @types/jspdf --save-dev
+
+npm i html2canvas --save
+
+
+jsPDF documentation: https://rawgit.com/MrRio/jsPDF/master/docs/ 
+
+html2 canvas : http://html2canvas.hertzen.com/
+
 # NgJspdf
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
